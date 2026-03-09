@@ -1,0 +1,51 @@
+p{
+    color:rgb(0, 255, 0);
+    border:40px solid ;
+}
+div{
+    color:blueviolet;
+    border:40px solid;
+    height:50px;
+    font-weight:200;
+    background-color: burlywood;
+    font-family:'Times New Roman',Times,serif;
+   
+}
+.c1{
+    color:chocolate;
+    border:50px solid brown;
+    height:50px;
+    font-weight:200;
+    background-color:blue;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+
+}
+.c2{
+    color:blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    font-style:italic;
+    display: inline;
+}
+*/
+*/id selector*/
+/*#p1{
+    color:crimson;
+    background-color: aqua;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#p2{
+    color:blanchedalmond;
+    background-color: blue;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}*/
+/* universal selector*/
+*{
+    color:brown;
+    background-color:blanchedalmond;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: larger;
+    font-weight: 200;
+}
